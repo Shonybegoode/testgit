@@ -17,7 +17,6 @@
 /tmp
 
 # Ignorar otros archivos innecesarios 
-doc/
 *.swp
 *~
 .project
