@@ -3,8 +3,6 @@
 
 [![Build Status](https://travis-ci.org/Shonybegoode/testgit.png?branch=master)](https://travis-ci.org/Shonybegoode/testgit)
 
-https://travis-ci.org/Shonybegoode/testgit.svg
-
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
