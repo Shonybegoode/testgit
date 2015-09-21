@@ -1,2 +1,3 @@
 language: ruby
 version: 2.0.0
+bundler_args: --without development production
